@@ -11,6 +11,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
+            //This is simple Calculator project !
             int choice = 0;
             do
             {
